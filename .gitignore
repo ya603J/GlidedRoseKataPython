@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# macOS folder attributes
+Icon?
+._*
+
+# Temporary files
+TemporaryItems
+.apdisk
+
+# General development environment
+*.log
+*.lock
+
+# Node.js environment
+node_modules/
+npm-debug.log*
+
+# Python environment
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Xcode project files
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+
+# JetBrains IDEs (optional)
+.idea/
+
+# Visual Studio Code (optional)
+.vscode/
+
+# User-specific files
+*.swp
